@@ -2,7 +2,7 @@
 
 Comparison of different machine learning models in classification and regression
 
-The dataset if available <a href="https://archive.ics.uci.edu/ml/datasets/energy+efficiency">here </a>.
+The dataset is available <a href="https://archive.ics.uci.edu/ml/datasets/energy+efficiency">here </a>.
 
 Dataset information from UCI :
 
